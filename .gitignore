@@ -1,0 +1,3 @@
+output_*.csv
+*.db
+__pycache__/
